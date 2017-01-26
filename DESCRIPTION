@@ -1,0 +1,11 @@
+Package: pack
+Title: paquete de prueba
+Version: 0.1
+Authors@R: person("Abraham", "Nieto", email = "raulabraham.nieto@gmail.com", role = c("aut", "cre"))
+Description: prueba de metricas 
+Depends: R (>= 3.3.2)
+Imports:
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
